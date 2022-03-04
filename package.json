@@ -7,7 +7,6 @@
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0",
-		"package-name": "version",
 		"moment": "2.14.0"
 	},
 	"main": "server.js",
